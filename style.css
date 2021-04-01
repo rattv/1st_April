@@ -1,0 +1,38 @@
+* {
+  background-color: palegoldenrod;
+}
+
+.button-wrapper {
+  width: 500px;
+  height: 500px;
+  padding: 50px;
+  border: 5px solid;
+}
+
+#my-button-2,
+#my-button-3,
+#my-button-4,
+#my-button-5,
+#my-button {
+  position: absolute;
+}
+
+.img_1,
+.img_2,
+.img_3,
+.img_4 {
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+}
+
+.img_5 {
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+}
+
+h1 {
+  color: red;
+  font-size: 72px;
+}
